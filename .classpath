@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Data_Structures/src"/>
+	<classpathentry kind="src" path="SUSHIL_YOGI_PG_FSD_1_Virendra_Sharma/src"/>
+	<classpathentry kind="output" path="Data_Structures/bin"/>
+</classpath>
